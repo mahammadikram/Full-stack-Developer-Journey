@@ -1,3 +1,4 @@
 # Full-stack-Developer-Journey
-I'm starting my full Stack Developer Journey ... This is my reepository 
+I'm starting my full Stack Developer Journey,,,
+<br>
 Author- Shaik Mahammad Ikram
